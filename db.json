@@ -1,0 +1,36 @@
+{
+  "atletas": [
+    {
+      "id": 1,
+      "name": "David Teixeira",
+      "idade": "28",
+      "peso": "105.8",
+      "objetivo": "Perda de peso",
+      "email": "teste1@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Fabricio Paz",
+      "idade": 27,
+      "peso": 85.8,
+      "objetivo": "Hipertrofia",
+      "email": "teste2@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jubileu da Silva",
+      "idade": 18,
+      "peso": 85.8,
+      "objetivo": "Perda de peso",
+      "email": "teste3@gmail.com"
+    },
+    {
+      "name": "Karine Aparecida",
+      "idade": "33",
+      "peso": "51",
+      "objetivo": "Ganho de massa",
+      "email": "karine.lima@gmail.com",
+      "id": 4
+    }
+  ]
+}
